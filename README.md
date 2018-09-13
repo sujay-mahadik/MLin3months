@@ -1,7 +1,7 @@
-# MLin3months
+# Machine Learning in 3 months
 
-*Daily Log of "[Learn Machine Learning in 3 Months](https://www.youtube.com/watch?v=Cr6VqTRO1v0&feature=youtu.be)" by Siraj Raval*
+*Daily Log of "[Learn Machine Learning in 3 Months](https://www.youtube.com/watch?v=Cr6VqTRO1v0&feature=youtu.be)"*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MTM0NzI4NF19
+eyJoaXN0b3J5IjpbODc3NzUxNTU2XX0=
 -->
