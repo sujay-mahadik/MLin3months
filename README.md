@@ -15,7 +15,14 @@
 **Thoughts** - Better insights into matrix as linear transformations, eigen vectors and values
 
 **Link of Work** - [Essence of Linear Algebra](https://www.youtube.com/watch?v=TgKwz5Ikpc8&index=14&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+## Day 2 : Sept 15, 2018
+**Today's work** - Started with calculus, revising the same from Essence of Calculus playlist by 3Blue1Brown. 
+
+**Thoughts** - B
+
+**Link of Work** - [Essence of Linear Algebra](https://www.youtube.com/watch?v=TgKwz5Ikpc8&index=14&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2ODgyNTk0LC05NzA4MTgyNzAsLTc2OD
-MwODIzOSw4Nzc3NTE1NTZdfQ==
+eyJoaXN0b3J5IjpbLTExMTU3NjgyMzYsOTM2ODgyNTk0LC05Nz
+A4MTgyNzAsLTc2ODMwODIzOSw4Nzc3NTE1NTZdfQ==
 -->
